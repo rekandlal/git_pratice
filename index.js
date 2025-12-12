@@ -11,3 +11,7 @@ function sub(a, b){
 function greetA(){
     console.log("code change from functionA branch");
 }
+
+function greetB(){
+    console.log("code change from functionA branch");
+}
