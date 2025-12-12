@@ -7,3 +7,7 @@ console.log(str);
 function sub(a, b){
     return a - b;
 }
+
+function greet(){
+    console.log("Hello World");
+}
